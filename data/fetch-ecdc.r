@@ -23,11 +23,11 @@ error = function(e) {
 })
 
 
-d <- read.csv("data/COVID-19-up-to-date.csv", stringsAsFactors = FALSE)
+d <- read.csv("South Africa/sa_data.csv", stringsAsFactors = FALSE, sep = ";")
 d$t <- lubridate::decimal_date(as.Date(d$dateRep, format = "%d/%m/%Y"))
 d <- d[order(d$'countriesAndTerritories', d$t, decreasing = FALSE), ]
 names(d)[names(d) == "countriesAndTerritories"] <- "Countries.and.territories"
 names(d)[names(d) == "deaths"] <- "Deaths"
 names(d)[names(d) == "cases"] <- "Cases"
 names(d)[names(d) == "dateRep"] <- "DateRep"
-saveRDS(d, "data/COVID-19-up-to-date.rds")
+saveRDS(d, "data/COVID-19-up-to-date-ZA.rds")

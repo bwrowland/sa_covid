@@ -5,7 +5,7 @@ library(dplyr)
 
 read_obs_data <- function(countries){
   # Read the deaths and cases data
-  d <- readRDS('data/COVID-19-up-to-date.rds')
+  d <- readRDS('data/COVID-19-up-to-date-ZA.rds')
   colnames(d)[colnames(d) == "Countries.and.territories"] <- "Country"
   d <-d[d$Country %in% countries$Regions, c(1,5,6,7)]
   d$DateRep <- as.Date(d$DateRep, format = '%d/%m/%Y')
@@ -13,18 +13,18 @@ read_obs_data <- function(countries){
 }
 
 read_ifr_data <- function(){
-  ifr.by.country <- read.csv("data/popt_ifr.csv")
+  ifr.by.country <- read.csv("South Africa/popt_ifr.csv", sep = ";")
   ifr.by.country$country <- as.character(ifr.by.country[,2])
-  ifr.by.country$country[ifr.by.country$country == "United Kingdom"] <- "United_Kingdom"
+  # ifr.by.country$country[ifr.by.country$country == "United Kingdom"] <- "United_Kingdom"
   return(ifr.by.country)
   
 }
 
 read_interventions <- function(countries){
-  interventions = read.csv('data/interventions.csv', stringsAsFactors = FALSE)
+  interventions = read.csv('South Africa//interventions.csv', stringsAsFactors = FALSE, sep = ";")
   names_interventions = c('Schools + Universities','Self-isolating if ill', 'Public events', 'Lockdown', 'Social distancing encouraged')
   interventions <- interventions[interventions$Type %in% names_interventions,]
-  interventions <- interventions[,c(1,2,4)]
+  # interventions <- interventions[,c(1,2,4)]
   interventions <- spread(interventions, Type, Date.effective)
   names(interventions) <- c('Country','lockdown', 'public_events', 'schools_universities','self_isolating_if_ill', 'social_distancing_encouraged')
   interventions <- interventions[c('Country','schools_universities', 'self_isolating_if_ill', 'public_events', 'lockdown', 'social_distancing_encouraged')]

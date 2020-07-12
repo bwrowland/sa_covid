@@ -1,0 +1,685 @@
+dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterritoryCode;popData2018;continentExp
+16/04/2020;16;4;2020;969;6;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+17/04/2020;17;4;2020;1018;6;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+18/04/2020;18;4;2020;1101;6;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+19/04/2020;19;4;2020;1148;6;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+20/04/2020;20;4;2020;1170;7;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+21/04/2020;21;4;2020;1199;7;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+22/04/2020;22;4;2020;1224;7;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+23/04/2020;23;4;2020;1252;8;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+24/04/2020;24;4;2020;1281;8;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+25/04/2020;25;4;2020;1304;8;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+26/04/2020;26;4;2020;1331;8;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+27/04/2020;27;4;2020;1353;8;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+28/04/2020;28;4;2020;1377;8;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+29/04/2020;29;4;2020;1408;11;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+30/04/2020;30;4;2020;1446;11;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+01/05/2020;1;5;2020;1507;11;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+02/05/2020;2;5;2020;1598;12;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+03/05/2020;3;5;2020;1624;14;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+04/05/2020;4;5;2020;1661;14;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+05/05/2020;5;5;2020;1697;15;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+06/05/2020;6;5;2020;1720;15;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+07/05/2020;7;5;2020;1804;15;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+08/05/2020;8;5;2020;1851;18;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+09/05/2020;9;5;2020;1910;18;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+10/05/2020;10;5;2020;1952;22;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+11/05/2020;11;5;2020;1971;22;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+12/05/2020;12;5;2020;2014;22;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+13/05/2020;13;5;2020;2074;24;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+14/05/2020;14;5;2020;2135;24;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+15/05/2020;15;5;2020;2210;24;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+16/05/2020;16;5;2020;2262;25;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+17/05/2020;17;5;2020;2329;25;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+18/05/2020;18;5;2020;2343;26;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+19/05/2020;19;5;2020;2361;27;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+20/05/2020;20;5;2020;2400;27;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+21/05/2020;21;5;2020;2453;27;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+22/05/2020;22;5;2020;2521;29;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+23/05/2020;23;5;2020;2633;29;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+24/05/2020;24;5;2020;2773;29;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+25/05/2020;25;5;2020;2993;30;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+26/05/2020;26;5;2020;3043;31;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+27/05/2020;27;5;2020;3167;31;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+28/05/2020;28;5;2020;3329;31;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+29/05/2020;29;5;2020;3583;31;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+30/05/2020;30;5;2020;3773;31;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+31/05/2020;31;5;2020;4003;33;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+01/06/2020;1;6;2020;4231;33;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+02/06/2020;2;6;2020;4276;33;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+03/06/2020;3;6;2020;4567;33;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+04/06/2020;4;6;2020;4845;33;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+05/06/2020;5;6;2020;5215;40;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+06/06/2020;6;6;2020;5626;47;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+07/06/2020;7;6;2020;5946;47;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+08/06/2020;8;6;2020;6258;47;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+09/06/2020;9;6;2020;6546;57;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+10/06/2020;10;6;2020;7195;57;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+11/06/2020;11;6;2020;7953;57;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+12/06/2020;12;6;2020;8781;57;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+13/06/2020;13;6;2020;9897;81;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+14/06/2020;14;6;2020;11164;81;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+15/06/2020;15;6;2020;12193;87;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+16/06/2020;16;6;2020;13023;87;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+17/06/2020;17;6;2020;14620;87;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+18/06/2020;18;6;2020;15898;87;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+19/06/2020;19;6;2020;17261;114;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+20/06/2020;20;6;2020;18978;114;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+21/06/2020;21;6;2020;20822;122;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+22/06/2020;22;6;2020;22341;122;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+23/06/2020;23;6;2020;24041;122;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+24/06/2020;24;6;2020;26156;147;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+25/06/2020;25;6;2020;28746;149;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+26/06/2020;26;6;2020;31344;149;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+27/06/2020;27;6;2020;34285;166;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+28/06/2020;28;6;2020;36895;174;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+29/06/2020;29;6;2020;39841;180;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+30/06/2020;30;6;2020;42881;216;Gauteng;Gauteng;Gauteng;Gauteng;Gauteng
+16/04/2020;16;4;2020;539;20;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+17/04/2020;17;4;2020;591;20;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+18/04/2020;18;4;2020;604;21;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+19/04/2020;19;4;2020;617;22;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+20/04/2020;20;4;2020;639;23;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+21/04/2020;21;4;2020;671;23;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+22/04/2020;22;4;2020;758;25;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+23/04/2020;23;4;2020;807;27;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+24/04/2020;24;4;2020;841;29;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+25/04/2020;25;4;2020;847;29;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+26/04/2020;26;4;2020;863;29;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+27/04/2020;27;4;2020;902;30;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+28/04/2020;28;4;2020;919;30;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+29/04/2020;29;4;2020;956;32;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+30/04/2020;30;4;2020;980;32;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+01/05/2020;1;5;2020;1006;32;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+02/05/2020;2;5;2020;1051;34;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+03/05/2020;3;5;2020;1076;34;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+04/05/2020;4;5;2020;1106;35;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+05/05/2020;5;5;2020;1142;36;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+06/05/2020;6;5;2020;1189;38;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+07/05/2020;7;5;2020;1204;40;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+08/05/2020;8;5;2020;1253;42;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+09/05/2020;9;5;2020;1308;43;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+10/05/2020;10;5;2020;1353;43;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+11/05/2020;11;5;2020;1372;44;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+12/05/2020;12;5;2020;1394;44;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+13/05/2020;13;5;2020;1413;44;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+14/05/2020;14;5;2020;1444;44;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+15/05/2020;15;5;2020;1482;45;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+16/05/2020;16;5;2020;1498;45;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+17/05/2020;17;5;2020;1543;45;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+18/05/2020;18;5;2020;1567;45;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+19/05/2020;19;5;2020;1616;46;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+20/05/2020;20;5;2020;1650;46;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+21/05/2020;21;5;2020;1693;46;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+22/05/2020;22;5;2020;1735;47;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+23/05/2020;23;5;2020;1777;48;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+24/05/2020;24;5;2020;1815;49;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+25/05/2020;25;5;2020;1882;49;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+26/05/2020;26;5;2020;1927;49;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+27/05/2020;27;5;2020;2186;49;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+28/05/2020;28;5;2020;2349;50;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+29/05/2020;29;5;2020;2428;50;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+30/05/2020;30;5;2020;2476;52;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+31/05/2020;31;5;2020;2545;52;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+01/06/2020;1;6;2020;2565;52;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+02/06/2020;2;6;2020;2637;53;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+03/06/2020;3;6;2020;2707;54;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+04/06/2020;4;6;2020;2869;55;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+05/06/2020;5;6;2020;2936;55;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+06/06/2020;6;6;2020;3016;61;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+07/06/2020;7;6;2020;3108;61;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+08/06/2020;8;6;2020;3175;62;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+09/06/2020;9;6;2020;3255;62;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+10/06/2020;10;6;2020;3347;64;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+11/06/2020;11;6;2020;3472;64;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+12/06/2020;12;6;2020;3573;64;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+13/06/2020;13;6;2020;3763;64;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+14/06/2020;14;6;2020;3874;69;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+15/06/2020;15;6;2020;3959;69;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+16/06/2020;16;6;2020;4048;73;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+17/06/2020;17;6;2020;4238;73;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+18/06/2020;18;6;2020;4360;73;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+19/06/2020;19;6;2020;4548;80;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+20/06/2020;20;6;2020;4806;83;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+21/06/2020;21;6;2020;5030;84;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+22/06/2020;22;6;2020;5278;87;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+23/06/2020;23;6;2020;5625;91;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+24/06/2020;24;6;2020;6075;91;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+25/06/2020;25;6;2020;6590;106;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+26/06/2020;26;6;2020;7090;106;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+27/06/2020;27;6;2020;7786;109;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+28/06/2020;28;6;2020;8433;109;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+29/06/2020;29;6;2020;9041;115;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+30/06/2020;30;6;2020;9674;126;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal;KwaZulu-Natal
+16/04/2020;16;4;2020;26;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+17/04/2020;17;4;2020;26;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+18/04/2020;18;4;2020;26;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+19/04/2020;19;4;2020;27;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+20/04/2020;20;4;2020;27;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+21/04/2020;21;4;2020;27;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+22/04/2020;22;4;2020;27;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+23/04/2020;23;4;2020;27;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+24/04/2020;24;4;2020;29;1;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+25/04/2020;25;4;2020;30;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+26/04/2020;26;4;2020;31;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+27/04/2020;27;4;2020;31;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+28/04/2020;28;4;2020;31;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+29/04/2020;29;4;2020;31;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+30/04/2020;30;4;2020;32;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+01/05/2020;1;5;2020;34;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+02/05/2020;2;5;2020;36;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+03/05/2020;3;5;2020;37;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+04/05/2020;4;5;2020;39;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+05/05/2020;5;5;2020;40;2;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+06/05/2020;6;5;2020;40;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+07/05/2020;7;5;2020;41;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+08/05/2020;8;5;2020;43;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+09/05/2020;9;5;2020;51;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+10/05/2020;10;5;2020;54;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+11/05/2020;11;5;2020;54;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+12/05/2020;12;5;2020;54;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+13/05/2020;13;5;2020;54;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+14/05/2020;14;5;2020;55;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+15/05/2020;15;5;2020;57;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+16/05/2020;16;5;2020;59;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+17/05/2020;17;5;2020;77;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+18/05/2020;18;5;2020;88;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+19/05/2020;19;5;2020;94;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+20/05/2020;20;5;2020;93;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+21/05/2020;21;5;2020;121;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+22/05/2020;22;5;2020;120;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+23/05/2020;23;5;2020;124;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+24/05/2020;24;5;2020;128;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+25/05/2020;25;5;2020;132;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+26/05/2020;26;5;2020;132;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+27/05/2020;27;5;2020;141;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+28/05/2020;28;5;2020;144;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+29/05/2020;29;5;2020;170;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+30/05/2020;30;5;2020;173;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+31/05/2020;31;5;2020;177;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+01/06/2020;1;6;2020;192;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+02/06/2020;2;6;2020;193;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+03/06/2020;3;6;2020;200;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+04/06/2020;4;6;2020;206;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+05/06/2020;5;6;2020;215;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+06/06/2020;6;6;2020;216;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+07/06/2020;7;6;2020;227;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+08/06/2020;8;6;2020;244;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+09/06/2020;9;6;2020;253;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+10/06/2020;10;6;2020;257;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+11/06/2020;11;6;2020;267;3;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+12/06/2020;12;6;2020;288;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+13/06/2020;13;6;2020;309;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+14/06/2020;14;6;2020;326;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+15/06/2020;15;6;2020;362;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+16/06/2020;16;6;2020;391;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+17/06/2020;17;6;2020;416;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+18/06/2020;18;6;2020;489;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+19/06/2020;19;6;2020;503;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+20/06/2020;20;6;2020;521;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+21/06/2020;21;6;2020;564;4;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+22/06/2020;22;6;2020;582;5;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+23/06/2020;23;6;2020;622;5;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+24/06/2020;24;6;2020;670;5;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+25/06/2020;25;6;2020;730;5;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+26/06/2020;26;6;2020;798;5;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+27/06/2020;27;6;2020;862;5;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+28/06/2020;28;6;2020;935;5;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+29/06/2020;29;6;2020;1011;10;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+30/06/2020;30;6;2020;1131;10;Limpopo;Limpopo;Limpopo;Limpopo;Limpopo
+16/04/2020;16;4;2020;22;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+17/04/2020;17;4;2020;23;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+18/04/2020;18;4;2020;25;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+19/04/2020;19;4;2020;23;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+20/04/2020;20;4;2020;23;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+21/04/2020;21;4;2020;24;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+22/04/2020;22;4;2020;23;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+23/04/2020;23;4;2020;23;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+24/04/2020;24;4;2020;24;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+25/04/2020;25;4;2020;23;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+26/04/2020;26;4;2020;23;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+27/04/2020;27;4;2020;26;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+28/04/2020;28;4;2020;24;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+29/04/2020;29;4;2020;31;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+30/04/2020;30;4;2020;36;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+01/05/2020;1;5;2020;35;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+02/05/2020;2;5;2020;40;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+03/05/2020;3;5;2020;46;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+04/05/2020;4;5;2020;53;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+05/05/2020;5;5;2020;57;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+06/05/2020;6;5;2020;57;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+07/05/2020;7;5;2020;59;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+08/05/2020;8;5;2020;60;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+09/05/2020;9;5;2020;61;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+10/05/2020;10;5;2020;61;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+11/05/2020;11;5;2020;63;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+12/05/2020;12;5;2020;63;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+13/05/2020;13;5;2020;66;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+14/05/2020;14;5;2020;67;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+15/05/2020;15;5;2020;67;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+16/05/2020;16;5;2020;68;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+17/05/2020;17;5;2020;71;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+18/05/2020;18;5;2020;76;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+19/05/2020;19;5;2020;78;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+20/05/2020;20;5;2020;93;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+21/05/2020;21;5;2020;95;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+22/05/2020;22;5;2020;98;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+23/05/2020;23;5;2020;97;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+24/05/2020;24;5;2020;101;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+25/05/2020;25;5;2020;102;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+26/05/2020;26;5;2020;103;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+27/05/2020;27;5;2020;106;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+28/05/2020;28;5;2020;111;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+29/05/2020;29;5;2020;112;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+30/05/2020;30;5;2020;113;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+31/05/2020;31;5;2020;121;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+01/06/2020;1;6;2020;131;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+02/06/2020;2;6;2020;132;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+03/06/2020;3;6;2020;137;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+04/06/2020;4;6;2020;144;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+05/06/2020;5;6;2020;169;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+06/06/2020;6;6;2020;181;0;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+07/06/2020;7;6;2020;189;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+08/06/2020;8;6;2020;183;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+09/06/2020;9;6;2020;184;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+10/06/2020;10;6;2020;207;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+11/06/2020;11;6;2020;228;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+12/06/2020;12;6;2020;243;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+13/06/2020;13;6;2020;271;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+14/06/2020;14;6;2020;297;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+15/06/2020;15;6;2020;322;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+16/06/2020;16;6;2020;343;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+17/06/2020;17;6;2020;391;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+18/06/2020;18;6;2020;461;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+19/06/2020;19;6;2020;505;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+20/06/2020;20;6;2020;544;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+21/06/2020;21;6;2020;573;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+22/06/2020;22;6;2020;596;1;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+23/06/2020;23;6;2020;662;2;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+24/06/2020;24;6;2020;713;2;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+25/06/2020;25;6;2020;783;2;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+26/06/2020;26;6;2020;855;2;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+27/06/2020;27;6;2020;925;2;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+28/06/2020;28;6;2020;1016;2;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+29/06/2020;29;6;2020;1089;3;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+30/06/2020;30;6;2020;1190;7;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga;Mpumalanga
+16/04/2020;16;4;2020;24;0;North_West;North West;North West;North West;North West
+17/04/2020;17;4;2020;24;0;North_West;North West;North West;North West;North West
+18/04/2020;18;4;2020;24;0;North_West;North West;North West;North West;North West
+19/04/2020;19;4;2020;24;0;North_West;North West;North West;North West;North West
+20/04/2020;20;4;2020;25;0;North_West;North West;North West;North West;North West
+21/04/2020;21;4;2020;24;0;North_West;North West;North West;North West;North West
+22/04/2020;22;4;2020;24;0;North_West;North West;North West;North West;North West
+23/04/2020;23;4;2020;25;0;North_West;North West;North West;North West;North West
+24/04/2020;24;4;2020;25;0;North_West;North West;North West;North West;North West
+25/04/2020;25;4;2020;28;0;North_West;North West;North West;North West;North West
+26/04/2020;26;4;2020;28;0;North_West;North West;North West;North West;North West
+27/04/2020;27;4;2020;28;0;North_West;North West;North West;North West;North West
+28/04/2020;28;4;2020;29;0;North_West;North West;North West;North West;North West
+29/04/2020;29;4;2020;29;0;North_West;North West;North West;North West;North West
+30/04/2020;30;4;2020;31;0;North_West;North West;North West;North West;North West
+01/05/2020;1;5;2020;35;0;North_West;North West;North West;North West;North West
+02/05/2020;2;5;2020;35;0;North_West;North West;North West;North West;North West
+03/05/2020;3;5;2020;36;0;North_West;North West;North West;North West;North West
+04/05/2020;4;5;2020;35;0;North_West;North West;North West;North West;North West
+05/05/2020;5;5;2020;35;0;North_West;North West;North West;North West;North West
+06/05/2020;6;5;2020;37;0;North_West;North West;North West;North West;North West
+07/05/2020;7;5;2020;40;0;North_West;North West;North West;North West;North West
+08/05/2020;8;5;2020;42;0;North_West;North West;North West;North West;North West
+09/05/2020;9;5;2020;41;0;North_West;North West;North West;North West;North West
+10/05/2020;10;5;2020;45;0;North_West;North West;North West;North West;North West
+11/05/2020;11;5;2020;50;1;North_West;North West;North West;North West;North West
+12/05/2020;12;5;2020;51;1;North_West;North West;North West;North West;North West
+13/05/2020;13;5;2020;52;1;North_West;North West;North West;North West;North West
+14/05/2020;14;5;2020;58;1;North_West;North West;North West;North West;North West
+15/05/2020;15;5;2020;63;1;North_West;North West;North West;North West;North West
+16/05/2020;16;5;2020;64;1;North_West;North West;North West;North West;North West
+17/05/2020;17;5;2020;70;1;North_West;North West;North West;North West;North West
+18/05/2020;18;5;2020;72;1;North_West;North West;North West;North West;North West
+19/05/2020;19;5;2020;72;1;North_West;North West;North West;North West;North West
+20/05/2020;20;5;2020;72;1;North_West;North West;North West;North West;North West
+21/05/2020;21;5;2020;77;1;North_West;North West;North West;North West;North West
+22/05/2020;22;5;2020;80;1;North_West;North West;North West;North West;North West
+23/05/2020;23;5;2020;81;1;North_West;North West;North West;North West;North West
+24/05/2020;24;5;2020;94;1;North_West;North West;North West;North West;North West
+25/05/2020;25;5;2020;109;1;North_West;North West;North West;North West;North West
+26/05/2020;26;5;2020;115;1;North_West;North West;North West;North West;North West
+27/05/2020;27;5;2020;128;1;North_West;North West;North West;North West;North West
+28/05/2020;28;5;2020;134;1;North_West;North West;North West;North West;North West
+29/05/2020;29;5;2020;143;1;North_West;North West;North West;North West;North West
+30/05/2020;30;5;2020;162;1;North_West;North West;North West;North West;North West
+31/05/2020;31;5;2020;175;1;North_West;North West;North West;North West;North West
+01/06/2020;1;6;2020;187;1;North_West;North West;North West;North West;North West
+02/06/2020;2;6;2020;271;1;North_West;North West;North West;North West;North West
+03/06/2020;3;6;2020;314;1;North_West;North West;North West;North West;North West
+04/06/2020;4;6;2020;364;1;North_West;North West;North West;North West;North West
+05/06/2020;5;6;2020;409;1;North_West;North West;North West;North West;North West
+06/06/2020;6;6;2020;468;1;North_West;North West;North West;North West;North West
+07/06/2020;7;6;2020;523;1;North_West;North West;North West;North West;North West
+08/06/2020;8;6;2020;580;1;North_West;North West;North West;North West;North West
+09/06/2020;9;6;2020;604;1;North_West;North West;North West;North West;North West
+10/06/2020;10;6;2020;657;1;North_West;North West;North West;North West;North West
+11/06/2020;11;6;2020;757;5;North_West;North West;North West;North West;North West
+12/06/2020;12;6;2020;865;5;North_West;North West;North West;North West;North West
+13/06/2020;13;6;2020;977;5;North_West;North West;North West;North West;North West
+14/06/2020;14;6;2020;1097;5;North_West;North West;North West;North West;North West
+15/06/2020;15;6;2020;1177;5;North_West;North West;North West;North West;North West
+16/06/2020;16;6;2020;1281;5;North_West;North West;North West;North West;North West
+17/06/2020;17;6;2020;1402;5;North_West;North West;North West;North West;North West
+18/06/2020;18;6;2020;1606;5;North_West;North West;North West;North West;North West
+19/06/2020;19;6;2020;1758;5;North_West;North West;North West;North West;North West
+20/06/2020;20;6;2020;1957;5;North_West;North West;North West;North West;North West
+21/06/2020;21;6;2020;2148;5;North_West;North West;North West;North West;North West
+22/06/2020;22;6;2020;2315;5;North_West;North West;North West;North West;North West
+23/06/2020;23;6;2020;2454;5;North_West;North West;North West;North West;North West
+24/06/2020;24;6;2020;2618;5;North_West;North West;North West;North West;North West
+25/06/2020;25;6;2020;2965;5;North_West;North West;North West;North West;North West
+26/06/2020;26;6;2020;3218;5;North_West;North West;North West;North West;North West
+27/06/2020;27;6;2020;3454;5;North_West;North West;North West;North West;North West
+28/06/2020;28;6;2020;3647;5;North_West;North West;North West;North West;North West
+29/06/2020;29;6;2020;3931;7;North_West;North West;North West;North West;North West
+30/06/2020;30;6;2020;4187;7;North_West;North West;North West;North West;North West
+16/04/2020;16;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+17/04/2020;17;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+18/04/2020;18;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+19/04/2020;19;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+20/04/2020;20;4;2020;18;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+21/04/2020;21;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+22/04/2020;22;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+23/04/2020;23;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+24/04/2020;24;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+25/04/2020;25;4;2020;16;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+26/04/2020;26;4;2020;17;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+27/04/2020;27;4;2020;17;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+28/04/2020;28;4;2020;17;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+29/04/2020;29;4;2020;17;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+30/04/2020;30;4;2020;17;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+01/05/2020;1;5;2020;18;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+02/05/2020;2;5;2020;23;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+03/05/2020;3;5;2020;24;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+04/05/2020;4;5;2020;25;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+05/05/2020;5;5;2020;26;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+06/05/2020;6;5;2020;26;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+07/05/2020;7;5;2020;27;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+08/05/2020;8;5;2020;27;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+09/05/2020;9;5;2020;28;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+10/05/2020;10;5;2020;29;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+11/05/2020;11;5;2020;30;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+12/05/2020;12;5;2020;30;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+13/05/2020;13;5;2020;30;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+14/05/2020;14;5;2020;31;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+15/05/2020;15;5;2020;34;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+16/05/2020;16;5;2020;35;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+17/05/2020;17;5;2020;37;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+18/05/2020;18;5;2020;37;0;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+19/05/2020;19;5;2020;37;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+20/05/2020;20;5;2020;38;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+21/05/2020;21;5;2020;37;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+22/05/2020;22;5;2020;39;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+23/05/2020;23;5;2020;40;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+24/05/2020;24;5;2020;40;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+25/05/2020;25;5;2020;45;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+26/05/2020;26;5;2020;45;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+27/05/2020;27;5;2020;48;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+28/05/2020;28;5;2020;51;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+29/05/2020;29;5;2020;52;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+30/05/2020;30;5;2020;57;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+31/05/2020;31;5;2020;69;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+01/06/2020;1;6;2020;82;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+02/06/2020;2;6;2020;91;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+03/06/2020;3;6;2020;93;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+04/06/2020;4;6;2020;95;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+05/06/2020;5;6;2020;102;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+06/06/2020;6;6;2020;105;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+07/06/2020;7;6;2020;114;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+08/06/2020;8;6;2020;118;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+09/06/2020;9;6;2020;122;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+10/06/2020;10;6;2020;125;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+11/06/2020;11;6;2020;132;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+12/06/2020;12;6;2020;138;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+13/06/2020;13;6;2020;144;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+14/06/2020;14;6;2020;156;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+15/06/2020;15;6;2020;205;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+16/06/2020;16;6;2020;211;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+17/06/2020;17;6;2020;211;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+18/06/2020;18;6;2020;214;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+19/06/2020;19;6;2020;218;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+20/06/2020;20;6;2020;232;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+21/06/2020;21;6;2020;237;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+22/06/2020;22;6;2020;254;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+23/06/2020;23;6;2020;270;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+24/06/2020;24;6;2020;299;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+25/06/2020;25;6;2020;318;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+26/06/2020;26;6;2020;337;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+27/06/2020;27;6;2020;355;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+28/06/2020;28;6;2020;385;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+29/06/2020;29;6;2020;404;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+30/06/2020;30;6;2020;465;1;Northern_Cape;Northern Cape;Northern Cape;Northern Cape;Northern Cape
+16/04/2020;16;4;2020;675;13;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+17/04/2020;17;4;2020;717;15;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+18/04/2020;18;4;2020;836;16;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+19/04/2020;19;4;2020;868;17;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+20/04/2020;20;4;2020;940;17;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+21/04/2020;21;4;2020;1010;17;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+22/04/2020;22;4;2020;1079;22;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+23/04/2020;23;4;2020;1279;28;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+24/04/2020;24;4;2020;1413;30;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+25/04/2020;25;4;2020;1514;32;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+26/04/2020;26;4;2020;1608;33;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+27/04/2020;27;4;2020;1737;35;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+28/04/2020;28;4;2020;1870;38;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+29/04/2020;29;4;2020;2135;42;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+30/04/2020;30;4;2020;2342;42;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+01/05/2020;1;5;2020;2507;55;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+02/05/2020;2;5;2020;2700;56;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+03/05/2020;3;5;2020;3044;58;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+04/05/2020;4;5;2020;3362;64;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+05/05/2020;5;5;2020;3609;71;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+06/05/2020;6;5;2020;3760;73;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+07/05/2020;7;5;2020;3994;79;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+08/05/2020;8;5;2020;4497;88;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+09/05/2020;9;5;2020;4809;95;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+10/05/2020;10;5;2020;5168;98;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+11/05/2020;11;5;2020;5621;106;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+12/05/2020;12;5;2020;6105;106;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+13/05/2020;13;5;2020;6713;117;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+14/05/2020;14;5;2020;7235;129;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+15/05/2020;15;5;2020;7798;137;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+16/05/2020;16;5;2020;8404;149;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+17/05/2020;17;5;2020;9294;149;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+18/05/2020;18;5;2020;10035;166;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+19/05/2020;19;5;2020;10639;187;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+20/05/2020;20;5;2020;11262;210;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+21/05/2020;21;5;2020;12153;235;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+22/05/2020;22;5;2020;12888;257;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+23/05/2020;23;5;2020;13826;261;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+24/05/2020;24;5;2020;14740;281;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+25/05/2020;25;5;2020;15396;330;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+26/05/2020;26;5;2020;15829;363;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+27/05/2020;27;5;2020;16893;391;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+28/05/2020;28;5;2020;17754;406;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+29/05/2020;29;5;2020;18906;437;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+30/05/2020;30;5;2020;20160;465;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+31/05/2020;31;5;2020;21382;503;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+01/06/2020;1;6;2020;22567;525;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+02/06/2020;2;6;2020;23583;568;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+03/06/2020;3;6;2020;24657;597;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+04/06/2020;4;6;2020;27006;651;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+05/06/2020;5;6;2020;28807;704;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+06/06/2020;6;6;2020;30379;729;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+07/06/2020;7;6;2020;31824;774;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+08/06/2020;8;6;2020;33568;829;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+09/06/2020;9;6;2020;34819;890;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+10/06/2020;10;6;2020;36021;927;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+11/06/2020;11;6;2020;37422;966;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+12/06/2020;12;6;2020;38926;1005;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+13/06/2020;13;6;2020;40605;1041;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+14/06/2020;14;6;2020;42539;1083;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+15/06/2020;15;6;2020;44143;1156;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+16/06/2020;16;6;2020;45357;1200;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+17/06/2020;17;6;2020;46555;1243;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+18/06/2020;18;6;2020;47522;1300;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+19/06/2020;19;6;2020;48706;1360;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+20/06/2020;20;6;2020;50173;1392;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+21/06/2020;21;6;2020;51441;1419;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+22/06/2020;22;6;2020;52554;1458;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+23/06/2020;23;6;2020;53512;1536;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+24/06/2020;24;6;2020;55162;1599;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+25/06/2020;25;6;2020;56780;1652;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+26/06/2020;26;6;2020;57941;1692;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+27/06/2020;27;6;2020;59315;1732;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+28/06/2020;28;6;2020;60445;1764;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+29/06/2020;29;6;2020;61375;1807;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+30/06/2020;30;6;2020;62481;1859;Western_Cape;Western Cape;Western Cape;Western Cape;Western Cape
+16/04/2020;16;4;2020;220;4;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+17/04/2020;17;4;2020;246;4;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+18/04/2020;18;4;2020;270;4;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+19/04/2020;19;4;2020;293;4;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+20/04/2020;20;4;2020;310;5;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+21/04/2020;21;4;2020;345;5;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+22/04/2020;22;4;2020;377;5;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+23/04/2020;23;4;2020;417;6;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+24/04/2020;24;4;2020;480;6;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+25/04/2020;25;4;2020;488;10;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+26/04/2020;26;4;2020;535;10;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+27/04/2020;27;4;2020;588;10;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+28/04/2020;28;4;2020;616;10;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+29/04/2020;29;4;2020;630;11;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+30/04/2020;30;4;2020;647;11;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+01/05/2020;1;5;2020;691;11;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+02/05/2020;2;5;2020;732;13;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+03/05/2020;3;5;2020;774;17;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+04/05/2020;4;5;2020;814;17;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+05/05/2020;5;5;2020;838;18;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+06/05/2020;6;5;2020;849;18;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+07/05/2020;7;5;2020;929;18;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+08/05/2020;8;5;2020;989;21;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+09/05/2020;9;5;2020;1078;21;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+10/05/2020;10;5;2020;1218;22;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+11/05/2020;11;5;2020;1356;24;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+12/05/2020;12;5;2020;1504;24;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+13/05/2020;13;5;2020;1534;24;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+14/05/2020;14;5;2020;1569;31;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+15/05/2020;15;5;2020;1662;31;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+16/05/2020;16;5;2020;1812;32;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+17/05/2020;17;5;2020;1936;35;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+18/05/2020;18;5;2020;2052;39;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+19/05/2020;19;5;2020;2135;41;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+20/05/2020;20;5;2020;2215;45;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+21/05/2020;21;5;2020;2324;50;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+22/05/2020;22;5;2020;2459;53;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+23/05/2020;23;5;2020;2569;58;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+24/05/2020;24;5;2020;2690;59;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+25/05/2020;25;5;2020;2748;61;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+26/05/2020;26;5;2020;2864;70;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+27/05/2020;27;5;2020;3047;70;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+28/05/2020;28;5;2020;3306;77;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+29/05/2020;29;5;2020;3583;80;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+30/05/2020;30;5;2020;3759;82;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+31/05/2020;31;5;2020;3927;82;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+01/06/2020;1;6;2020;4111;82;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+02/06/2020;2;6;2020;4324;88;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+03/06/2020;3;6;2020;4526;95;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+04/06/2020;4;6;2020;4936;95;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+05/06/2020;5;6;2020;5240;95;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+06/06/2020;6;6;2020;5629;101;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+07/06/2020;7;6;2020;5974;101;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+08/06/2020;8;6;2020;6341;127;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+09/06/2020;9;6;2020;6760;138;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+10/06/2020;10;6;2020;7154;147;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+11/06/2020;11;6;2020;7868;178;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+12/06/2020;12;6;2020;8615;208;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+13/06/2020;13;6;2020;9250;217;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+14/06/2020;14;6;2020;10027;227;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+15/06/2020;15;6;2020;10597;236;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+16/06/2020;16;6;2020;11039;245;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+17/06/2020;17;6;2020;11919;251;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+18/06/2020;18;6;2020;12639;257;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+19/06/2020;19;6;2020;13506;257;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+20/06/2020;20;6;2020;14721;268;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+21/06/2020;21;6;2020;15751;285;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+22/06/2020;22;6;2020;16895;303;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+23/06/2020;23;6;2020;18108;331;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+24/06/2020;24;6;2020;19214;346;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+25/06/2020;25;6;2020;20487;363;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+26/06/2020;26;6;2020;21938;371;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+27/06/2020;27;6;2020;23658;384;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+28/06/2020;28;6;2020;25099;387;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+29/06/2020;29;6;2020;26195;397;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+30/06/2020;30;6;2020;27686;422;Eastern_Cape;Eastern Cape;Eastern Cape;Eastern Cape;Eastern Cape
+16/04/2020;16;4;2020;98;4;Free_State;Free State;Free State;Free State;Free State
+17/04/2020;17;4;2020;100;4;Free_State;Free State;Free State;Free State;Free State
+18/04/2020;18;4;2020;100;4;Free_State;Free State;Free State;Free State;Free State
+19/04/2020;19;4;2020;100;4;Free_State;Free State;Free State;Free State;Free State
+20/04/2020;20;4;2020;105;5;Free_State;Free State;Free State;Free State;Free State
+21/04/2020;21;4;2020;106;5;Free_State;Free State;Free State;Free State;Free State
+22/04/2020;22;4;2020;106;5;Free_State;Free State;Free State;Free State;Free State
+23/04/2020;23;4;2020;106;5;Free_State;Free State;Free State;Free State;Free State
+24/04/2020;24;4;2020;111;5;Free_State;Free State;Free State;Free State;Free State
+25/04/2020;25;4;2020;111;5;Free_State;Free State;Free State;Free State;Free State
+26/04/2020;26;4;2020;110;5;Free_State;Free State;Free State;Free State;Free State
+27/04/2020;27;4;2020;111;5;Free_State;Free State;Free State;Free State;Free State
+28/04/2020;28;4;2020;113;5;Free_State;Free State;Free State;Free State;Free State
+29/04/2020;29;4;2020;113;5;Free_State;Free State;Free State;Free State;Free State
+30/04/2020;30;4;2020;116;5;Free_State;Free State;Free State;Free State;Free State
+01/05/2020;1;5;2020;118;5;Free_State;Free State;Free State;Free State;Free State
+02/05/2020;2;5;2020;121;6;Free_State;Free State;Free State;Free State;Free State
+03/05/2020;3;5;2020;122;6;Free_State;Free State;Free State;Free State;Free State
+04/05/2020;4;5;2020;125;6;Free_State;Free State;Free State;Free State;Free State
+05/05/2020;5;5;2020;128;6;Free_State;Free State;Free State;Free State;Free State
+06/05/2020;6;5;2020;130;6;Free_State;Free State;Free State;Free State;Free State
+07/05/2020;7;5;2020;134;6;Free_State;Free State;Free State;Free State;Free State
+08/05/2020;8;5;2020;133;6;Free_State;Free State;Free State;Free State;Free State
+09/05/2020;9;5;2020;134;6;Free_State;Free State;Free State;Free State;Free State
+10/05/2020;10;5;2020;135;6;Free_State;Free State;Free State;Free State;Free State
+11/05/2020;11;5;2020;135;6;Free_State;Free State;Free State;Free State;Free State
+12/05/2020;12;5;2020;135;6;Free_State;Free State;Free State;Free State;Free State
+13/05/2020;13;5;2020;138;6;Free_State;Free State;Free State;Free State;Free State
+14/05/2020;14;5;2020;145;6;Free_State;Free State;Free State;Free State;Free State
+15/05/2020;15;5;2020;151;6;Free_State;Free State;Free State;Free State;Free State
+16/05/2020;16;5;2020;153;6;Free_State;Free State;Free State;Free State;Free State
+17/05/2020;17;5;2020;158;6;Free_State;Free State;Free State;Free State;Free State
+18/05/2020;18;5;2020;163;6;Free_State;Free State;Free State;Free State;Free State
+19/05/2020;19;5;2020;168;6;Free_State;Free State;Free State;Free State;Free State
+20/05/2020;20;5;2020;180;6;Free_State;Free State;Free State;Free State;Free State
+21/05/2020;21;5;2020;184;6;Free_State;Free State;Free State;Free State;Free State
+22/05/2020;22;5;2020;185;6;Free_State;Free State;Free State;Free State;Free State
+23/05/2020;23;5;2020;196;6;Free_State;Free State;Free State;Free State;Free State
+24/05/2020;24;5;2020;202;6;Free_State;Free State;Free State;Free State;Free State
+25/05/2020;25;5;2020;208;6;Free_State;Free State;Free State;Free State;Free State
+26/05/2020;26;5;2020;206;6;Free_State;Free State;Free State;Free State;Free State
+27/05/2020;27;5;2020;221;6;Free_State;Free State;Free State;Free State;Free State
+28/05/2020;28;5;2020;225;8;Free_State;Free State;Free State;Free State;Free State
+29/05/2020;29;5;2020;231;8;Free_State;Free State;Free State;Free State;Free State
+30/05/2020;30;5;2020;261;8;Free_State;Free State;Free State;Free State;Free State
+31/05/2020;31;5;2020;278;8;Free_State;Free State;Free State;Free State;Free State
+01/06/2020;1;6;2020;285;8;Free_State;Free State;Free State;Free State;Free State
+02/06/2020;2;6;2020;299;8;Free_State;Free State;Free State;Free State;Free State
+03/06/2020;3;6;2020;319;8;Free_State;Free State;Free State;Free State;Free State
+04/06/2020;4;6;2020;322;9;Free_State;Free State;Free State;Free State;Free State
+05/06/2020;5;6;2020;336;9;Free_State;Free State;Free State;Free State;Free State
+06/06/2020;6;6;2020;348;9;Free_State;Free State;Free State;Free State;Free State
+07/06/2020;7;6;2020;361;9;Free_State;Free State;Free State;Free State;Free State
+08/06/2020;8;6;2020;373;9;Free_State;Free State;Free State;Free State;Free State
+09/06/2020;9;6;2020;391;9;Free_State;Free State;Free State;Free State;Free State
+10/06/2020;10;6;2020;401;9;Free_State;Free State;Free State;Free State;Free State
+11/06/2020;11;6;2020;406;9;Free_State;Free State;Free State;Free State;Free State
+12/06/2020;12;6;2020;435;9;Free_State;Free State;Free State;Free State;Free State
+13/06/2020;13;6;2020;457;9;Free_State;Free State;Free State;Free State;Free State
+14/06/2020;14;6;2020;495;9;Free_State;Free State;Free State;Free State;Free State
+15/06/2020;15;6;2020;512;9;Free_State;Free State;Free State;Free State;Free State
+16/06/2020;16;6;2020;578;9;Free_State;Free State;Free State;Free State;Free State
+17/06/2020;17;6;2020;608;9;Free_State;Free State;Free State;Free State;Free State
+18/06/2020;18;6;2020;649;9;Free_State;Free State;Free State;Free State;Free State
+19/06/2020;19;6;2020;658;9;Free_State;Free State;Free State;Free State;Free State
+20/06/2020;20;6;2020;700;9;Free_State;Free State;Free State;Free State;Free State
+21/06/2020;21;6;2020;733;9;Free_State;Free State;Free State;Free State;Free State
+22/06/2020;22;6;2020;772;9;Free_State;Free State;Free State;Free State;Free State
+23/06/2020;23;6;2020;814;9;Free_State;Free State;Free State;Free State;Free State
+24/06/2020;24;6;2020;889;9;Free_State;Free State;Free State;Free State;Free State
+25/06/2020;25;6;2020;976;9;Free_State;Free State;Free State;Free State;Free State
+26/06/2020;26;6;2020;1069;9;Free_State;Free State;Free State;Free State;Free State
+27/06/2020;27;6;2020;1160;9;Free_State;Free State;Free State;Free State;Free State
+28/06/2020;28;6;2020;1279;9;Free_State;Free State;Free State;Free State;Free State
+29/06/2020;29;6;2020;1377;9;Free_State;Free State;Free State;Free State;Free State
+30/06/2020;30;6;2020;1514;9;Free_State;Free State;Free State;Free State;Free State

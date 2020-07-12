@@ -27,7 +27,7 @@ process_covariates <- function(countries, interventions, d, ifr.by.country,N2){
   x2 <- rgammaAlt(1e6,mean2,cv2) # onset-to-death distribution
   
   ecdf.saved <- ecdf(x1+x2)
-  forecast <- 0
+  forecast <- 35
   dates <- list()
   reported_cases <- list()
   stan_data <- list(M=length(countries$Regions),N=NULL,deaths=NULL,f=NULL,
